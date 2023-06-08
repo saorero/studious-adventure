@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{saorero}.github.io/{studious-adventure}'",
+    "build-gh": "parcel build --public-url 'https://{saorero}.github.io/{studious}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
