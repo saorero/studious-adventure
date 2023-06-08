@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tech.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -54,6 +54,25 @@ const projectList = [
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
+  {
+    title: "School Material Tracking System",
+    description:
+      "A web application built for the ministry to help in tracking supplies sent to various schools",
+    url: "https://github.com/saorero/PLP_PROJECT",
+  },
+  {
+    title: "Bytsfy",
+    description:
+      "A web application built through collaboration that chunks large csv files into smaller bits",
+    url: "https://github.com/saorero/Chunk_file_team_46_Bytsfy",
+  },
+  {
+    title: "Women Health Foundation Project",
+    description:
+      "Collaborated with other developers to try and redesign a website",
+    url: "https://github.com/saorero/WomenHealthFoundation",
+  },
+  
 ];
 
 const Portfolio = () => {
