@@ -66,12 +66,7 @@ const projectList = [
       "A web application built through collaboration that chunks large csv files into smaller bits",
     url: "https://github.com/saorero/Chunk_file_team_46_Bytsfy",
   },
-  {
-    title: "Women Health Foundation Project",
-    description:
-      "Collaborated with other developers to try and redesign a website",
-    url: "https://github.com/saorero/WomenHealthFoundation",
-  },
+  
   
 ];
 
