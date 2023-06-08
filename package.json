@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{saorero}.github.io/{studious-adventure}",
+  "homepage": "https://{saorero}.github.io/{studious-adventure}",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
